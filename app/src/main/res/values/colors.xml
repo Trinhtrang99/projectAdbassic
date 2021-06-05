@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray_background">#CC000000</color>
+    <color name="white_date_time">#dcdcdc</color>
+    <color name="green_btn">#3BDB82</color>
+    <color name="clear">#00000000</color>
+    <color name="green_date_time">#28C76F</color>
+    <color name="gray_txt_edt">#3A525D</color>
+
+    <color name="red_border_edt">#CC3D40</color>
+
+    <color name="color_fb">#1877F2</color>
+    <color name="color_twitter">#1D9BF0</color>
+    <color name="color_google">#3E82F1</color>
+    <color name="color_green">#3BDB82</color>
+    <color name="gray_border">#959595</color>
+    <color name="gray_edt_search">#D0D9DD</color>
+    <color name="gray_hint_edt">#838383</color>
+    <color name="color_tvBlock">#CC3D40</color>
+    <color name="color_tvNoBlock">#A2A2A2</color>
+    <color name="color_tvFollow">#28C76F</color>
+    <color name="color_btSheep">#D0D9DD</color>
+    <color name="color_transparent">#00000000</color>
+    <color name="color_txtblack">#262626</color>
+    <color name="colorline">#EBEBEB</color>
+    <color name="text_color">#535353</color>
+    <color name="btn_red">#CC3D40</color>
+    <color name="textcolorsucc">#222222</color>
+    <color name="action_sheet_other_btns_bg">#FBF9F9</color>
+    <color name="action_sheet_cancel_btn_bg">#FFFFFF</color>
+    <color name="txt_action_sheet_cancel_btn_bg">#007AFF</color>
+    <color name="color_border_img">#EBEBEB</color>
+    <color name="color_txtb9">#B9B9B9</color>
+
+
+    <color name="colorPrimary">#5DAC81</color>
+    <color name="colorPrimaryDark">#4F916D</color>
+    <color name="colorAccent">#5DAC81</color>
+    <color name="windowBackground">#1C1C1C</color>
+    <color name="colorButtonNormal">#FFFFFB</color>
+    <color name="textColorPrimary">#FFFFFB</color>
+    <color name="textColorPrimaryInverse">#1C1C1C</color>
+    <color name="overlay">#AA1C1C1C</color>
+    <color name="divider">#333333</color>
+
+    <color name="transperant">#00000000</color>
+    <color name="text_default">#3A525D</color>
+    <color name="text_setuparea">#222222</color>
+    <color name="view_setuparea">#EBEBEB</color>
+    <color name="section_area">#F1F4F5</color>
+    <color name="bg_dialog">#F2F2F2</color>
+    <color name="txt_dialog">#007AFF</color>
+    <color name="tab_layout_item">#2BE27D</color>
+
+    <color name="yellow">#FDDA18</color>
+    <color name="color_28C76F">#EFFAF4</color>
+    <color name="color_8383">#838383</color>
+
+    <color name="item_sellect_parti">#F1F5F6</color>
+    <color name="txt_gray">#838383</color>
+
+</resources>
