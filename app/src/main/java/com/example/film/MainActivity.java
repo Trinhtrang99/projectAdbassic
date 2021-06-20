@@ -7,10 +7,11 @@ import androidx.fragment.app.FragmentTransaction;
 import android.os.Bundle;
 
 import com.example.film.mainfragment.SearchFragment;
+import com.example.film.mainfragment.homeFragment;
 import com.example.film.mainfragment.messageFragment;
 import com.example.film.mainfragment.notificationFragment;
 import com.example.film.mainfragment.personFragment;
-import com.example.myapplication.mainfragment.homeFragment;
+
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
